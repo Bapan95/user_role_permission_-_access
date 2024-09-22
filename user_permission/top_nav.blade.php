@@ -16,6 +16,8 @@
 
     .treeview-menu-1 {
         padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     .treeview-1.active>.treeview-menu-1 {
